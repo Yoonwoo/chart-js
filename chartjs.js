@@ -2,7 +2,7 @@
 var Chart = function(context){
 
 	var chart = this;
-	
+	var fucku = 3;
 	
 	//Easing functions adapted from Robert Penner's easing equations
 	//http://www.robertpenner.com/easing/
